@@ -9,7 +9,7 @@ namespace BattleShip
 {
     public class Tuile
     {
-        //test
+        //test 2
         private int tailleX;
         private int tailleY;
         private bool bateauPresent;
